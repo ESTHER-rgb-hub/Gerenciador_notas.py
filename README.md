@@ -1,4 +1,4 @@
-# Gerenciador notas
+# Gerenciador_notas.py
 # Sistema de Gerenciamento de Notas Acadêmicas
 
 Este projeto implementa um sistema simples para gerenciar o desempenho acadêmico de estudantes.  
