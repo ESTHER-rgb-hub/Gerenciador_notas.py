@@ -28,4 +28,4 @@ O desenvolvimento do sistema de gerenciamento de notas acadêmicas representou u
 Clone este repositório e execute:
 
 ```bash
-python src/gerenciador_notas.py
+python Gerenciador_de_notas.py
